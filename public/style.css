@@ -1,0 +1,64 @@
+html{
+    scroll-behavior:smooth;
+}
+.navbar{ 
+    background-color: grey !important; 
+}
+
+.nav-item{
+    color: white !important;
+    font-weight: bold;
+}
+
+.hover{
+    color: white !important;
+    
+}
+
+
+.hover:hover{
+   background-color: yellow !important;
+   color: black !important;
+}
+
+.heading{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    margin : 30px;
+    background-color: grey;
+    color: white;
+    
+}
+.container{
+    justify-content: space-between;
+}
+
+
+.card-text{
+    font-weight: bold;
+    color: white;
+}
+
+.card{
+
+    background-color: gray;
+}
+
+.fa-address-book{
+    font-size: 20px !important;
+}
+
+.call{
+    text-decoration: none;
+    color: white;
+}
+
+.mail{
+    text-decoration: none;
+    color: white;
+
+}
+.center{
+    text-align: center !important;
+}
